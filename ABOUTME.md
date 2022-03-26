@@ -1,10 +1,8 @@
 - Hi, I’m `@danyooooo` / you can also call me `Dani`.
 - I’m interested in `coding` / `programming`.
-- I’m currently learning `Javascript`.
-- I’m currently making a `discord music bot`.
-- I like to make some changes on other user's repos to fix any of the problem I know.
+- I’m currently learning `C#`.
+- I’m currently making a `roblox executor`.
 - How to reach me ? :
-- Facebook : `Daniel Hakeem` / `dani.hakeem.55`
 - Discord : `danyooooo#4481`
 
 <!---
